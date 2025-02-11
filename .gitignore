@@ -37,3 +37,5 @@ __pycache__/
 
 build/**
 .vscode/.cortex-debug.*
+
+\out
