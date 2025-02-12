@@ -44,7 +44,6 @@ int main() {
       sleep_ms(300);
       gpio_put(LED_PIN_Y, 0);
       while (!gpio_get(BTN_R)) {
-        sleep_ms(10);
       };
     } 
   }
